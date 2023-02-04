@@ -15,7 +15,7 @@
   "tokens": [
     {
       "chainId": 5,
-      "address": "0x3eb49459D88Ee9437be1D702db7b6A130C321B67",
+      "address": "0xB43DEb1587711C589A868159CDe16Fd7848AA23A",
       "decimals": 18,
       "name": "Weth",
       "symbol": "WETH9",
@@ -23,7 +23,7 @@
     },
     {
       "chainId": 5,
-      "address": "0xdFD67965602C1f4EB81aA71cC2aA35A4872fca90",
+      "address": "0x6e74AB4E4371739F6E6B2723C302c2Ec88e0B670",
       "decimals": 18,
       "name": "Zeni",
       "symbol": "ZENI",
