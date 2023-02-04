@@ -1,0 +1,34 @@
+{
+  "name": "token list WGM",
+  "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png",
+  "keywords": [
+    "wagmi",
+    "defi",
+    "ethereum",
+    "bridge"
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 59140,
+      "address": "0xa5bc6A87D9d2e0a1Db0302525D5378d01e09F7D2",
+      "decimals": 18,
+      "name": "Weth",
+      "symbol": "WETH9",
+      "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png"
+    },
+    {
+      "chainId": 59140,
+      "address": "0xE2D902fF6bc1161687007610E26AC675FE39249C",
+      "decimals": 18,
+      "name": "testToken",
+      "symbol": "KAKA",
+      "logoURI": "https://rcd-media.com/wagmi/og.png"
+    }
+  ],
+  "timestamp": "2021-08-27T12:00:00+00:00"
+}
