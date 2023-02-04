@@ -8,25 +8,25 @@
     "bridge"
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
   "tokens": [
     {
-      "chainId": 59140,
-      "address": "0xa5bc6A87D9d2e0a1Db0302525D5378d01e09F7D2",
+      "chainId": 5,
+      "address": "0x3eb49459D88Ee9437be1D702db7b6A130C321B67",
       "decimals": 18,
       "name": "Weth",
       "symbol": "WETH9",
       "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png"
     },
     {
-      "chainId": 59140,
-      "address": "0xE2D902fF6bc1161687007610E26AC675FE39249C",
+      "chainId": 5,
+      "address": "0xdFD67965602C1f4EB81aA71cC2aA35A4872fca90",
       "decimals": 18,
-      "name": "testToken",
-      "symbol": "KAKA",
+      "name": "Zeni",
+      "symbol": "ZENI",
       "logoURI": "https://rcd-media.com/wagmi/og.png"
     }
   ],
